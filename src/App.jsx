@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Header from './components/Header/Header.jsx';
-import Footer from './components/Footer/Footer';
+import Project from './components/Project/Project.jsx'
+import Footer from './components/Footer/Footer.jsx';
 import About from './pages/About/About';
 import Portfolio from './pages/Portfolio/Portfolio';
 import Contact from './pages/Contact/Contact';
